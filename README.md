@@ -1,6 +1,6 @@
-# Playlist Shuffle
+# Awesome Mix
 
-![npm](https://img.shields.io/npm/v/playlist-shuffle.svg)
+![npm](https://img.shields.io/npm/v/awesome-mix.svg)
 ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
   
 Is your player shuffle or random mode frustrating you?  
@@ -8,7 +8,7 @@ Is it repeating the same song over and over again?
   
 We have a solution:
 1. turn off the shuffle mode in your player
-2. use shuffle package to compose your own awesome playlist
+2. use awesome mix module to compose your own playlist
 3. move brand new playlist to your player
 4. ...
 5. PROFIT!
@@ -20,18 +20,18 @@ By making this simple actions you will enjoy music in non-repetitive manner.
 Install via npm:
 
 ```bash
-npm install --save playlist-shuffle
+npm install --save awesome-mix
 ```
 
-Use shuffle package in your node.js application:
+Use awesome mix module in your node.js application:
 
 ```javascript
-const shuffle = require('playlist-shuffle');
+const mix = require('awesome-mix');
 
 let from = ['/Users/peter/mix-vol1', '/Users/peter/mix-vol2'];
 let to = '/Users/peter/awesome-mix';
 
-shuffle(from, to)
+mix(from, to)
   .then(() => console.log('lets rock!'));
 ```
 

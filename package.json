@@ -1,12 +1,12 @@
 {
-  "name": "playlist-shuffle",
+  "name": "awesome-mix",
   "author": "Nikita Tsyhanenko",
   "description": "Package to make your own awesome mix",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/accetone/playlist-shuffle"
+    "url": "https://github.com/accetone/awesome-mix"
   },
   "dependencies": {
     "bluebird": "^3.5.0",
