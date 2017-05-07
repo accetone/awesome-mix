@@ -1,7 +1,8 @@
 {
   "name": "playlist-shuffle",
   "author": "Nikita Tsyhanenko",
-  "version": "1.0.1",
+  "description": "Package to make your own awesome mix",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
