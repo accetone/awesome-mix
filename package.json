@@ -2,7 +2,7 @@
   "name": "awesome-mix",
   "author": "Nikita Tsyhanenko",
   "description": "Package to make your own awesome mix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
