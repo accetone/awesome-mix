@@ -128,5 +128,6 @@ module.exports = {
 	onlyAudio,
 	readdirs,
 	copyFiles,
-	checkArgs
+	checkArgs,
+	shuffleArray
 };
